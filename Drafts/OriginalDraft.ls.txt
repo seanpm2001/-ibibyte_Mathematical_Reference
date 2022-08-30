@@ -1,0 +1,14 @@
+Self Discovery 2022 August 26th:
+-Ibibyte prefixes are all powers of 10
+1,024 bytes (1 KiB) (2^10)
+1,024 KiB (1 MiB) (2^20)
+1,024 MiB (1 GiB) (2^30)
+1,024 GiB (1 TiB) (2^40)
+1,024 TiB (1 PiB) (2^50)
+1,024 PiB (1 EiB) (2^60)
+1,024 EiB (1 ZiB) (2^70)
+1,024 ZiB (1 YiB) (2^80)
+1,024 YiB (1 ???) (2^90)
+1,048,576 YiB (1 ???) (2^100)
+1,073,741,824 YiB (1 ???) (2^110)
+And so on...
